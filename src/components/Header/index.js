@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Route, Navigate, HashRouter } from 'react-router-dom';
-import Navbar from '../components/Navbar';
-import About from '/../components/About';
-import Portfolio from '/../components/Portfolio';
-import Contact from '/../components/Contact';
+import Nav from '../../components/Nav';
+import About from '../../components/About';
+import Portfolio from '../components/Portfolio';
+import Contact from '../components/Contact';
 import Resume from './components/Contact';
 
 class Header extends Component {
@@ -11,10 +11,10 @@ class Header extends Component {
         return (
             <HashRouter>
                 <header>
-                    <Navbar />
+                    <Nav />
                 </header>
 
-            <div className='navlinks'>
+            <div className='content'>
                 <Route exact path = '/' render = { ()=> <Navigate to='/about'/>} />
                 <Route path ='/about' component={ About } />
                 <Route path ='/portfolio' component={ Portfolio } />
