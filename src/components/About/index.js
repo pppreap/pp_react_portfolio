@@ -4,7 +4,7 @@ import avatarImage from './aboutavatar.png'
 function About () {
     return (
     <section className = 'container'>
-        <h2 class='title'> Paula Preap</h2>
+        <h2 class='title'> About Paula</h2>
        <hr></hr>
   
          <div>
