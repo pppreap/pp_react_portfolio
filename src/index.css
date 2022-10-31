@@ -166,7 +166,8 @@ li {
 
 .nav-title-font {
   font-family: 'Monda';
-  font-size: 1.9em;
+  font-size: 1.8em;
+  margin-left: 5px;
 }
 
 .top-title {
