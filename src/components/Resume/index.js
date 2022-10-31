@@ -5,7 +5,7 @@ function Resume () {
         <section class='container'>
             <h2 className='title'>Resume</h2>
             <hr></hr>
-            <div class='mt-4'>
+            <div class='mt-5'>
                 <h2 className='title'>Paula Preap</h2>
                 <ul>
                     <li>

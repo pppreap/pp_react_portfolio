@@ -9,7 +9,7 @@ function ProjectCards(props) {
             </div>
             <div className='content'>
                 <p className='card-title'>{props.name}</p>
-                <p class='icons'>
+                <p class='proj-icons-container'>
                 <a href={props.github}><img class='project-icon' src='https://img.icons8.com/fluent/48/000000/github.png' alt='Github Repo'/></a>
                 <a href={props.deploy}><img class='project-icon' src='https://img.icons8.com/fluent/48/000000/domain.png' alt='Live App'/></a>
                 </p>
