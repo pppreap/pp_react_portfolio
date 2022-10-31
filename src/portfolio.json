@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Password Generator",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/pppreap/challenge3_password/main/images/finalsteppwgen.png",
         "github": "https://github.com/pppreap/challenge3_password",
         "deploy": "https://pppreap.github.io/challenge3_password/",
         "topics": "HTML5, CSS, Javascript"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Work Day Scheduler",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/pppreap/challenge5_dayplanner/main/images/savbtninput.png",
         "github": "https://github.com/pppreap/challenge5_dayplanner",
         "deploy": "https://pppreap.github.io/challenge5_dayplanner/",
         "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap, moment.js, localStorage"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Weather Dashboard",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/pppreap/challenge6_weatherapi/main/images/search.png",
         "github": "https://github.com/pppreap/challenge6_weatherapi",
         "deploy": "https://pppreap.github.io/challenge6_weatherapi/",
         "topics": "HTML5, CSS, Javascript, Third-party API"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Note Taker",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/pppreap/challenge11_notetaker/main/public/assets/startpg.png",
         "github": "https://github.com/pppreap/challenge11_notetaker",
         "deploy": "https://calm-mesa-47785.herokuapp.com/",
         "topics": "node, express, javascript, npm, bootstrap"
@@ -34,15 +34,15 @@
     {
         "id": 5,
         "name": "Employee Tracker",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/pppreap/challenge12_employeetracker/main/assets/updaterole.png",
         "github": "https://github.com/pppreap/challenge12_employeetracker",
         "deploy": "none",
-        "topics": "node, express, javascript, MySQL, inquirer, commnad-line app, console.table"
+        "topics": "node, express, javascript, MySQL, inquirer, command-line app, console.table"
     },
     {
         "id": 6,
         "name": "Timed Javascript Quiz",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/pppreap/challenge4_timedcodingquiz/main/asset/startpg.png",
         "github": "https://github.com/pppreap/challenge4_timedcodingquiz",
         "deploy": "https://pppreap.github.io/challenge4_timedcodingquiz/",
         "topics": "HTML5, CSS, Javascript, WEB API"

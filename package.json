@@ -2,7 +2,7 @@
   "name": "pp_react_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pppreap.github.io/",
+  "homepage": "http://pppreap.github.io/pp_react_portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
