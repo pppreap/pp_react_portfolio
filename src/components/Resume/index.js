@@ -6,9 +6,11 @@ function Resume () {
             <h2 className='title'> Paula's Resume</h2>
             <hr></hr>
             <div class='mt-5'>
-                <h4 className='title'><a href='https://github.com/pppreap/pp-react-portfolio/raw/main/docs/resume.docx' class='link'>
+                <h4 className='title'>
+                    <a href='https://github.com/pppreap/pp_react_portfolio/blob/main/docs/resume.docx' class='link'>
                              Download Resume
                 </a></h4>
+                
                 <ul>
                     <li>
                     Eager to develop my current skills to bring creative, beautiful, and responsive webpages to life.&#x2740;
