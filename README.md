@@ -1,7 +1,7 @@
 # Module 20 Challenge: React Portfolio
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
-  Link to Application:(https://pppreap.github.io/pp_react_portfolio/#/about
+  Link to Application:(https://pppreap.github.io/pp_react_portfolio/
 )
 
 Link to Github Repository:(https://github.com/pppreap/pp_react_portfolio)
@@ -72,7 +72,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ![Image of the Homepage for Portfolio](./docs/reacthome.png)
 
 ## Contributions/Licenses/Links
-https://pppreap.github.io/pp_react_portfolio/#/about
+https://pppreap.github.io/pp_react_portfolio/
 
 https://github.com/pppreap/pp_react_portfolio
 
