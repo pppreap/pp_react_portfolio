@@ -95,7 +95,7 @@ a:hover {
 }
 
 header {
-  background: var(--dark);
+  background: var(--light);
 }
 
 header a {
@@ -198,6 +198,7 @@ textarea {
 }
 
 .container {
+  margin: top 20px;;
   width: 85%;
   max-width: 1200px;
   margin-left: auto;

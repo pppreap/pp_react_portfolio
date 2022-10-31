@@ -1,4 +1,5 @@
 import React from 'react';
+import avatarImage from './aboutavatar.png'
 
 function About () {
     return (
@@ -7,7 +8,7 @@ function About () {
        <hr></hr>
   
          <div>
-            <img class='mb-5' id='avatar' src='https://github.com/pppreap/hellopaula/blob/main/images/meee.png' alt='me'/>
+            <img class='mb-5' id='avatar' src={avatarImage} alt='me'/>
             <p> I am currently enroll in the full stack coding bootcamp program at Michigan State University.
                      Residing in Massachusetts. 
                     I graduated from UMASS Amherst with a degree in Chemistry.
