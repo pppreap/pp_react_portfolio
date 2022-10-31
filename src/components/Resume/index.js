@@ -7,7 +7,7 @@ function Resume () {
             <hr></hr>
             <div class='mt-5'>
                 <h4 className='title'>
-                    <a href='https://github.com/pppreap/pp_react_portfolio/blob/main/docs/resume.docx' class='link'>
+                    <a href='https://github.com/pppreap/pp_react_portfolio/blob/main/src/components/Resume/resume.docx?raw=true' class='link'>
                              Download Resume
                 </a></h4>
                 
