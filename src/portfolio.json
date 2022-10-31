@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Password Generator",
-        "image": "https://github.com/pppreap/challenge3_password/blob/main/images/finalsteppwgen.png",
+        "image": "",
         "github": "https://github.com/pppreap/challenge3_password",
         "deploy": "https://pppreap.github.io/challenge3_password/",
         "topics": "HTML5, CSS, Javascript"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Work Day Scheduler",
-        "image": "https://github.com/pppreap/challenge5_dayplanner/blob/main/images/savbtninput.png",
+        "image": "",
         "github": "https://github.com/pppreap/challenge5_dayplanner",
         "deploy": "https://pppreap.github.io/challenge5_dayplanner/",
         "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap, moment.js, localStorage"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Weather Dashboard",
-        "image": "https://github.com/pppreap/challenge6_weatherapi/blob/main/images/search.png",
+        "image": "",
         "github": "https://github.com/pppreap/challenge6_weatherapi",
         "deploy": "https://pppreap.github.io/challenge6_weatherapi/",
         "topics": "HTML5, CSS, Javascript, Third-party API"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Note Taker",
-        "image": "https://github.com/pppreap/challenge11_notetaker/blob/main/public/assets/startpg.png",
+        "image": "",
         "github": "https://github.com/pppreap/challenge11_notetaker",
         "deploy": "https://calm-mesa-47785.herokuapp.com/",
         "topics": "node, express, javascript, npm, bootstrap"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Employee Tracker",
-        "image": "https://github.com/pppreap/challenge12_employeetracker/blob/main/assets/updaterole.png",
+        "image": "",
         "github": "https://github.com/pppreap/challenge12_employeetracker",
         "deploy": "none",
         "topics": "node, express, javascript, MySQL, inquirer, commnad-line app, console.table"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "Timed Javascript Quiz",
-        "image": "https://github.com/pppreap/challenge4_timedcodingquiz/blob/main/asset/startpg.png",
+        "image": "",
         "github": "https://github.com/pppreap/challenge4_timedcodingquiz",
         "deploy": "https://pppreap.github.io/challenge4_timedcodingquiz/",
         "topics": "HTML5, CSS, Javascript, WEB API"
