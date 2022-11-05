@@ -46,5 +46,30 @@
         "github": "https://github.com/pppreap/challenge4_timedcodingquiz",
         "deploy": "https://pppreap.github.io/challenge4_timedcodingquiz/",
         "topics": "HTML5, CSS, Javascript, WEB API"
+    },
+    {
+        "id": 7,
+        "name": "Group Project 1  Scribe",
+        "image": "https://raw.githubusercontent.com/pppreap/project1/main/asset/project1.png",
+        "github": "https://github.com/pppreap/project1",
+        "deploy": "https://pppreap.github.io/project1/",
+        "topics": "APIs, HTML, CSS Framework: Bulma, and Javascript"
+    },
+    {
+        "id": 8,
+        "name": " Group Project 2 The Weign In",
+        "image": "https://raw.githubusercontent.com/pppreap/project2/main/asset/project2.png",
+        "github": "https://github.com/pppreap/project2",
+        "deploy": "https://serene-oasis-25855.herokuapp.com/",
+        "topics": "Node.js, express.js, mysql, ORM, authentication and cookies, Handlebar.js, Sequelize, MVC"
+    },
+    {
+        "id": 9,
+        "name": " Group Project 3 On Task",
+        "image": "https://raw.githubusercontent.com/pppreap/project3/main/asset/project3_ontask.png",
+        "github": "https://github.com/pppreap/project3_ontask",
+        "deploy": "Null",
+        "topics": "MERN, jwt, auth, graphql"
     }
+
 ]
