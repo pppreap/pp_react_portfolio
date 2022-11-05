@@ -66,7 +66,7 @@
     {
         "id": 9,
         "name": " Group Project 3 On Task",
-        "image": "https://raw.githubusercontent.com/pppreap/project3/main/asset/project3_ontask.png",
+        "image": "https://raw.githubusercontent.com/pppreap/project3_ontask/main/asset/project3_ontask.png",
         "github": "https://github.com/pppreap/project3_ontask",
         "deploy": "Null",
         "topics": "MERN, jwt, auth, graphql"
