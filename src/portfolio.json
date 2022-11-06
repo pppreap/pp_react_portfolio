@@ -66,9 +66,9 @@
     {
         "id": 9,
         "name": " Group Project 3 On Task",
-        "image": "https://raw.githubusercontent.com/pppreap/project3_ontask/main/client/src/components/project3.png",
+        "image": "https://raw.githubusercontent.com/pppreap/project3_ontask/main/client/src/components/loggedin.png",
         "github": "https://github.com/pppreap/project3_ontask",
-        "deploy": "Null",
+        "deploy": "https://powerful-bayou-00605.herokuapp.com/",
         "topics": "MERN, jwt, auth, graphql"
     }
 
